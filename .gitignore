@@ -1,0 +1,26 @@
+# Ignore Obsidian config and workspace settings (optional)
+.obsidian/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode or other editor folders
+.vscode/
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Sync tools (e.g., Syncthing, Dropbox temp files)
+.syncthing.*
+*.sync-conflict-*
+
+# Android file manager metadata
+.nomedia
