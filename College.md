@@ -9,3 +9,6 @@ basic create SQL queries in the oracale apex database and  basics of ethehical h
 
 ## [[07/03-07-2025]]
 SQL basics commands to create the table and add data hacking phases and type of hackers 
+
+## [[07/04-07-2025]]
+DS also includes maths and basic of SQL commands 

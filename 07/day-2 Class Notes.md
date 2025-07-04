@@ -29,7 +29,7 @@ The representation of a particular data structure in the memory of a computer is
 
 ---
 
-## 🔹 **Database Management System (DBMS)**
+##  **Database Management System (DBMS)**
 
 ### **Types of Data Models**:
 
