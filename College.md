@@ -12,3 +12,9 @@ SQL basics commands to create the table and add data hacking phases and type of 
 
 ## [[07/04-07-2025]]
 DS also includes maths and basic of SQL commands 
+
+## [[07/07-07-2025]]
+Full day DS lectures and labs did DMA (Dynamic memory aloocation practicals)
+
+## [[07/08-07-2025]]
+windows commands and file structure 
