@@ -17,4 +17,7 @@ DS also includes maths and basic of SQL commands
 Full day DS lectures and labs did DMA (Dynamic memory aloocation practicals)
 
 ## [[07/08-07-2025]]
-windows commands and file structure 
+windows commands and file structure in EHF and started chapter 4 in DS by dristi ma'am 
+
+## [[07/09-07-2025]]
+database abstraction in DBMS , CIA triad ,MS-DOS and linux commands new chapter in DS by monali ma'am 
